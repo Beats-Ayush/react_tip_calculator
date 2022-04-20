@@ -1,0 +1,11 @@
+@import url("../../main.css");
+
+.cardres {
+  width: 50%;
+  background-color: var(--Very-dark-cyan);
+  margin-left: calc(0.5rem + 1vw);
+  padding: calc(1rem + 2vw);
+}
+
+.cardres__btn {
+}

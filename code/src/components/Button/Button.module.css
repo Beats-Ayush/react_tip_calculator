@@ -1,0 +1,10 @@
+@import url("./../../main.css");
+
+.btn {
+  flex-basis: 10rem;
+  flex-grow: 1;
+}
+
+.custom {
+  flex-basis: 4rem;
+}

@@ -1,0 +1,29 @@
+@import url("../../main.css");
+
+.cardcalc {
+  width: 50%;
+  margin-right: calc(0.5rem + 1vw);
+}
+
+.cardcalc__form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.form__control {
+  display: flex;
+  flex-direction: column;
+}
+
+.form__control label {
+  font-size: calc(0.75rem + 1vw);
+}
+
+.btn__wrapper__text {
+}
+
+.btn__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
