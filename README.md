@@ -12,7 +12,6 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -51,3 +50,4 @@ Learnt some advanced React concepts like global state management.
 ## Author
 
 - Frontend Mentor - [@Beats-Ayush](https://www.frontendmentor.io/profile/Beats-Ayush)
+- Github - [Beats-Ayush](https://github.com/Beats-Ayush)
